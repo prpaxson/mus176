@@ -1,0 +1,10 @@
+15:49:06 **** Incremental Build of configuration Debug for project mus176 ****
+make -j11 all 
+arm-none-eabi-size   mus176.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40988	    208	   4408	  45604	   b224	mus176.elf
+Finished building: default.size.stdout
+ 
+
+15:49:06 Build Finished. 0 errors, 0 warnings. (took 198ms)
+

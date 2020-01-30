@@ -1,0 +1,1910 @@
+2020-01-10 09:25:38,463 [INFO] Activator:176 - 
+
+
+2020-01-10 09:25:38,466 [INFO] Activator:177 - !SESSION log4j initialized
+2020-01-10 09:25:39,787 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-01-10 09:26:05,561 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-10 09:26:05,563 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-10 09:26:05,643 [INFO] RetryExec:97 - I/O exception (java.io.IOException) caught when processing request to {s}->https://download.eclipse.org:443: Stream closed.
+2020-01-10 09:26:05,646 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2020-01-16 14:02:19,920 [INFO] Activator:176 - 
+
+
+2020-01-16 14:02:19,924 [INFO] Activator:177 - !SESSION log4j initialized
+2020-01-16 14:02:23,916 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-01-16 14:03:50,344 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-16 14:03:50,345 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-16 14:16:04,537 [INFO] Activator:176 - 
+
+
+2020-01-16 14:16:04,542 [INFO] Activator:177 - !SESSION log4j initialized
+2020-01-16 14:16:07,241 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-01-16 14:37:49,149 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-01-16 14:37:49,174 [INFO] DbMcusXml:69 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-01-16 14:37:49,179 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-01-16 14:37:49,179 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-01-16 14:37:49,179 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-01-16 14:37:49,183 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-01-16 14:37:49,378 [WARN] ApiFinderProperties:106 - /Users/prpaxson/.stmcufinder/plugins/mcufinder/mcu/mcuFinder.mfd doesn't exist
+2020-01-16 14:37:49,380 [INFO] DbMcusAds:72 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:49,381 [INFO] DbMcusDocs:92 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:49,383 [INFO] DbMcusJson:59 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:49,385 [INFO] DbBoardsDocs:84 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:49,386 [INFO] DbBoardsJson:51 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,442 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-01-16 14:37:53,624 [INFO] RulesReader:52 - Compatibility file has been processed (205 Rules)
+2020-01-16 14:37:53,755 [INFO] MicroXplorer:570 - Detected Java Version = 1.8.0_201
+2020-01-16 14:37:53,756 [INFO] DbMcusXml:69 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-01-16 14:37:53,757 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-01-16 14:37:53,757 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-01-16 14:37:53,757 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-01-16 14:37:53,757 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-01-16 14:37:53,757 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,757 [INFO] DbMcusAds:72 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,758 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,758 [INFO] DbMcusDocs:92 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,759 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,759 [INFO] DbMcusJson:59 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,759 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,759 [INFO] DbBoardsDocs:84 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,759 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,759 [INFO] DbBoardsJson:51 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,760 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,760 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,760 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-01-16 14:37:53,852 [INFO] MainPanel:180 - HeapMemory: 295698432
+2020-01-16 14:37:53,923 [INFO] DbMcusXml:69 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/
+2020-01-16 14:37:53,923 [INFO] DbBoardsPdsc:54 - Set plugin database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/boardmanager/
+2020-01-16 14:37:53,923 [INFO] DbMcus:264 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-01-16 14:37:53,924 [INFO] DbBoards:232 - Set plugin images path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/images/
+2020-01-16 14:37:53,924 [INFO] APIGFXSelector:72 - Set database path to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//plugins/mcufinder/mcu/
+2020-01-16 14:37:53,924 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,925 [INFO] DbMcusAds:72 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,925 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,925 [INFO] DbMcusDocs:92 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,925 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,925 [INFO] DbMcusJson:59 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,925 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,925 [INFO] DbBoardsDocs:84 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,925 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,926 [INFO] DbBoardsJson:51 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/
+2020-01-16 14:37:53,926 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,926 [WARN] DbFile:31 - Overriding database path with different value: /Users/prpaxson/.stmcufinder/plugins/mcufinder/ => /Users/prpaxson/.stmcufinder/plugins/mcufinder
+2020-01-16 14:37:53,926 [INFO] CrossReferenceDbSqlite:197 - Set database path to: /Users/prpaxson/.stmcufinder/plugins/mcufinder//mcu/cs/
+2020-01-16 14:37:53,950 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-01-16 14:37:53,952 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=]
+2020-01-16 14:37:53,954 [INFO] PluginManage:292 - Check plugin analytics
+2020-01-16 14:37:53,981 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2020-01-16 14:37:53,982 [INFO] PluginManage:292 - Check plugin clock
+2020-01-16 14:37:54,008 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2020-01-16 14:37:54,008 [INFO] PluginManage:292 - Check plugin ddr
+2020-01-16 14:37:54,012 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2020-01-16 14:37:54,013 [INFO] PluginManage:292 - Check plugin filemanager
+2020-01-16 14:37:54,184 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2020-01-16 14:37:54,184 [INFO] PluginManage:292 - Check plugin ipmanager
+2020-01-16 14:37:54,193 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2020-01-16 14:37:54,193 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2020-01-16 14:37:54,215 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2020-01-16 14:37:54,215 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2020-01-16 14:37:54,247 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2020-01-16 14:37:54,247 [INFO] PluginManage:292 - Check plugin power
+2020-01-16 14:37:54,273 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2020-01-16 14:37:54,273 [INFO] PluginManage:292 - Check plugin projectmanager
+2020-01-16 14:37:54,289 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2020-01-16 14:37:54,290 [INFO] PluginManage:292 - Check plugin thirdparty
+2020-01-16 14:37:54,336 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 1 ms. number of Sw pack : 0
+2020-01-16 14:37:54,347 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2020-01-16 14:37:54,347 [INFO] PluginManage:292 - Check plugin tools
+2020-01-16 14:37:54,367 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2020-01-16 14:37:54,368 [INFO] PluginManage:292 - Check plugin updater
+2020-01-16 14:37:54,385 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2020-01-16 14:37:54,386 [INFO] PluginManage:265 - PluginManage : Loaded plugins [12]
+2020-01-16 14:37:56,423 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-01-16 14:37:56,517 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,518 [INFO] PluginManager:200 - loadIPPluginJar : add mdma
+2020-01-16 14:37:56,535 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,536 [INFO] PluginManager:200 - loadIPPluginJar : add freertos
+2020-01-16 14:37:56,549 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,550 [INFO] PluginManager:200 - loadIPPluginJar : add gic
+2020-01-16 14:37:56,559 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,559 [INFO] PluginManager:200 - loadIPPluginJar : add gfxsimulator
+2020-01-16 14:37:56,577 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,577 [INFO] PluginManager:200 - loadIPPluginJar : add adc
+2020-01-16 14:37:56,591 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,591 [INFO] PluginManager:200 - loadIPPluginJar : add gtzc
+2020-01-16 14:37:56,597 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,598 [INFO] PluginManager:200 - loadIPPluginJar : add quadspi
+2020-01-16 14:37:56,604 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,604 [INFO] PluginManager:200 - loadIPPluginJar : add aes
+2020-01-16 14:37:56,609 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,610 [INFO] PluginManager:200 - loadIPPluginJar : add pdm2pcm
+2020-01-16 14:37:56,616 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,616 [INFO] PluginManager:200 - loadIPPluginJar : add hash
+2020-01-16 14:37:56,621 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,621 [INFO] PluginManager:200 - loadIPPluginJar : add tim
+2020-01-16 14:37:56,625 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,625 [INFO] PluginManager:200 - loadIPPluginJar : add tsc
+2020-01-16 14:37:56,629 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,630 [INFO] PluginManager:200 - loadIPPluginJar : add ts
+2020-01-16 14:37:56,638 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,638 [INFO] PluginManager:200 - loadIPPluginJar : add can
+2020-01-16 14:37:56,643 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,644 [INFO] PluginManager:200 - loadIPPluginJar : add dfsdm
+2020-01-16 14:37:56,653 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,654 [INFO] PluginManager:200 - loadIPPluginJar : add spi
+2020-01-16 14:37:56,663 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,664 [INFO] PluginManager:200 - loadIPPluginJar : add gfxmmu
+2020-01-16 14:37:56,667 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,667 [INFO] PluginManager:200 - loadIPPluginJar : add genericplugin
+2020-01-16 14:37:56,672 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,672 [INFO] PluginManager:200 - loadIPPluginJar : add cryp
+2020-01-16 14:37:56,686 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,687 [INFO] PluginManager:200 - loadIPPluginJar : add gpio
+2020-01-16 14:37:56,692 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,692 [INFO] PluginManager:200 - loadIPPluginJar : add comp
+2020-01-16 14:37:56,695 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,695 [INFO] PluginManager:200 - loadIPPluginJar : add tracer_emb
+2020-01-16 14:37:56,702 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,702 [INFO] PluginManager:200 - loadIPPluginJar : add stm32_wpan
+2020-01-16 14:37:56,715 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,718 [INFO] PluginManager:200 - loadIPPluginJar : add plateformsettings
+2020-01-16 14:37:56,743 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,743 [INFO] PluginManager:200 - loadIPPluginJar : add ipddr
+2020-01-16 14:37:56,748 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,749 [INFO] PluginManager:200 - loadIPPluginJar : add usart
+2020-01-16 14:37:56,753 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,754 [INFO] PluginManager:200 - loadIPPluginJar : add ltdc
+2020-01-16 14:37:56,762 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,762 [INFO] PluginManager:200 - loadIPPluginJar : add nvic
+2020-01-16 14:37:56,765 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,765 [INFO] PluginManager:200 - loadIPPluginJar : add fatfs
+2020-01-16 14:37:56,779 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,780 [INFO] PluginManager:200 - loadIPPluginJar : add dma
+2020-01-16 14:37:56,796 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,796 [INFO] PluginManager:200 - loadIPPluginJar : add fmc
+2020-01-16 14:37:56,805 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,805 [INFO] PluginManager:200 - loadIPPluginJar : add i2s
+2020-01-16 14:37:56,812 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,812 [INFO] PluginManager:200 - loadIPPluginJar : add ucpd
+2020-01-16 14:37:56,826 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,827 [INFO] PluginManager:200 - loadIPPluginJar : add opamp
+2020-01-16 14:37:56,843 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,844 [INFO] PluginManager:200 - loadIPPluginJar : add touchsensing
+2020-01-16 14:37:56,853 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,853 [INFO] PluginManager:200 - loadIPPluginJar : add i2c
+2020-01-16 14:37:56,873 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,874 [INFO] PluginManager:200 - loadIPPluginJar : add resmgrutility
+2020-01-16 14:37:56,886 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:37:56,886 [INFO] PluginManager:200 - loadIPPluginJar : add sai
+2020-01-16 14:37:56,990 [INFO] BoardConnectionPanel:226 - [DDR PANEL] osNameString: NotDefined
+2020-01-16 14:37:57,102 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-01-16 14:37:57,104 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: null
+2020-01-16 14:37:57,263 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-01-16 14:37:57,345 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-01-16 14:37:57,347 [ERROR] IntegrityCheckThread:252 - Cannot obtain thirdParties list 21
+2020-01-16 14:37:57,347 [ERROR] IntegrityCheckThread:100 - Unexpected exception IntegrityCheckThread Thread: Updater error
+2020-01-16 14:37:57,347 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:37:57,479 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-01-16 14:37:57,486 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-01-16 14:37:57,486 [FATAL] Updater:277 - Updater called before beeing initialized
+2020-01-16 14:37:57,492 [INFO] BoardConnectionPanel:3472 - [DDR PANEL] STM32CubeIDE environment
+2020-01-16 14:37:57,493 [INFO] MainDdrPanel:103 - [DDR PANEL] GETTER - cubeProgrammerPath is: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin
+2020-01-16 14:37:57,495 [INFO] ProgrammerExecThread:148 - [ProgrammerAPI] CubeProgrammer command construction: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin/STM32_Programmer_CLI -l
+2020-01-16 14:37:57,821 [INFO] MainDdrPanel:93 - [DDR PANEL] SETTER - Set cubeProgrammerPath to: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.macos64_1.1.0.201910081157/tools/bin
+2020-01-16 14:37:57,858 [INFO] Updater:886 - Updater Version found : 5.5.0
+2020-01-16 14:37:57,890 [INFO] ApplicationProperties:181 - Using Application install path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511
+2020-01-16 14:37:57,927 [INFO] MainUpdater:452 - Copy updater definitions from MX database
+2020-01-16 14:37:57,960 [INFO] MainUpdater:485 - Copy flag file definitions from MX database
+2020-01-16 14:37:57,966 [INFO] MainUpdater:501 - Copy thirdparty index definitions from MX database
+2020-01-16 14:37:57,973 [INFO] MainUpdater:520 - Copy default thirdparty db definitions from MX database
+2020-01-16 14:37:58,155 [INFO] MainUpdater:2230 - connection check result : 10
+2020-01-16 14:37:58,156 [INFO] MainUpdater:2874 - Updater definition file requires update
+2020-01-16 14:37:58,156 [INFO] MainUpdater:236 - Updater Check For Update Now.
+2020-01-16 14:37:58,157 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-01-16 14:37:58,211 [INFO] ServerAccessManage:348 - Download File updaters.zip
+2020-01-16 14:37:58,284 [INFO] FileExtend:225 - Unzip File : updaters.zip
+2020-01-16 14:37:58,285 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-01-16 14:37:58,566 [INFO] ServerAccessManage:348 - Download File PacksControlFlags.xml
+2020-01-16 14:37:58,667 [INFO] ServerAccessManage:348 - Download File cubemx.pidx
+2020-01-16 14:37:58,761 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-AI.pdsc
+2020-01-16 14:38:00,316 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-BLE1.pdsc
+2020-01-16 14:38:01,156 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-01-16 14:38:01,169 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-BLE2.pdsc
+2020-01-16 14:38:01,636 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-GNSS1.pdsc
+2020-01-16 14:38:02,778 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-01-16 14:38:02,809 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-01-16 14:38:02,846 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-01-16 14:38:02,880 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-01-16 14:38:02,911 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-01-16 14:38:02,945 [ERROR] ServerAccessManage:947 - Problem, file not found on Server
+2020-01-16 14:38:02,957 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-MEMS1.pdsc
+2020-01-16 14:38:03,120 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-NFC4.pdsc
+2020-01-16 14:38:04,302 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-SUBG2.pdsc
+2020-01-16 14:38:04,701 [INFO] ServerAccessManage:348 - Download File STMicroelectronics.X-CUBE-TOUCHGFX.pdsc
+2020-01-16 14:38:05,458 [INFO] ServerAccessManage:348 - Download File ARM.CMSIS.pdsc
+2020-01-16 14:38:08,274 [INFO] MainUpdater:2230 - connection check result : 10
+2020-01-16 14:38:08,279 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Successfull proxy connection.
+2020-01-16 14:38:08,326 [INFO] DbMcusDocs:126 - JSON generation date=Wed Dec 11 03:27:49 PST 2019 (1576063669)
+2020-01-16 14:38:08,327 [INFO] DbMcusXml:107 - Load MCU database from /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-01-16 14:38:08,952 [INFO] DbMcusJson:87 - JSON generation date=Wed Dec 11 03:27:49 PST 2019 (1576063669)
+2020-01-16 14:38:09,458 [INFO] LoadServerUpdatesThread:301 - End of LoadServerUpdate Thread
+2020-01-16 14:38:09,472 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 0 ms. number of Sw pack : 0
+2020-01-16 14:38:09,509 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,541 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 1 ms. number of Sw pack : 1
+2020-01-16 14:38:09,543 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-01-16 14:38:09,545 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,558 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 0 ms. number of Sw pack : 2
+2020-01-16 14:38:09,561 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,600 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 0 ms. number of Sw pack : 3
+2020-01-16 14:38:09,604 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,632 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 0 ms. number of Sw pack : 4
+2020-01-16 14:38:09,674 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,685 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-01-16 14:38:09,686 [INFO] ApiDb:147 - User favorites file not found: /Users/prpaxson/.stm32cubemx/favorites.mcus.txt
+2020-01-16 14:38:09,686 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-01-16 14:38:09,697 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 3 ms. number of Sw pack : 5
+2020-01-16 14:38:09,702 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,765 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 3 ms. number of Sw pack : 6
+2020-01-16 14:38:09,767 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,790 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 2 ms. number of Sw pack : 7
+2020-01-16 14:38:09,791 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,836 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 2 ms. number of Sw pack : 8
+2020-01-16 14:38:09,838 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,839 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,840 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,841 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,842 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,843 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,844 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,845 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,846 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,847 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,848 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,849 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,850 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,851 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,852 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,853 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,854 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,855 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,856 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,857 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,858 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,859 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,860 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,861 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,862 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,863 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,864 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,865 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,866 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,867 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,868 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,869 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,870 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,871 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,872 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,873 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,874 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,875 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,876 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,877 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,878 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,879 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,880 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,881 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,882 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,883 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,884 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,885 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,886 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,887 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,888 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,889 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,890 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,891 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,892 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,893 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,894 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,895 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,896 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,897 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,898 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,899 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,900 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,901 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,902 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,902 [INFO] MxPackages:596 - 
+2020-01-16 14:38:09,902 [INFO] MxPackages:636 - 
+2020-01-16 14:38:09,909 [INFO] DbMcusDocs:61 - Found 537 MCUs documents
+2020-01-16 14:38:09,909 [INFO] ApiDb:186 - Save user favorites file /Users/prpaxson/.stm32cubemx/favorites.mcus.txt: 0 item(s)
+2020-01-16 14:38:09,910 [INFO] ApiDb:191 - User favorites MCUs=[]
+2020-01-16 14:38:09,910 [INFO] DbMcusXml:107 - Load MCU database from /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db//mcu/families.xml
+2020-01-16 14:38:09,925 [WARN] ConditionMgr:787 - The TOptions attribute is not supported 
+2020-01-16 14:38:09,925 [WARN] ConditionMgr:787 - The TOptions attribute is not supported 
+2020-01-16 14:38:09,925 [WARN] ConditionMgr:787 - The TOptions attribute is not supported 
+2020-01-16 14:38:09,930 [WARN] ConditionMgr:787 - The TOptions attribute is not supported 
+2020-01-16 14:38:09,930 [WARN] ConditionMgr:787 - The TOptions attribute is not supported 
+2020-01-16 14:38:09,930 [WARN] ConditionMgr:787 - The TOptions attribute is not supported 
+2020-01-16 14:38:09,932 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:09,946 [INFO] PopulateThirdPartyThread:48 - Ending populate Thread
+2020-01-16 14:38:09,958 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 3 ms. number of Sw pack : 9
+2020-01-16 14:38:09,959 [INFO] Engine:366 - softwarePackList size : 9
+2020-01-16 14:38:09,963 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-AI have been done, and update is requested
+2020-01-16 14:38:09,967 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE1 have been done, and update is requested
+2020-01-16 14:38:09,970 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-BLE2 have been done, and update is requested
+2020-01-16 14:38:09,973 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-GNSS1 have been done, and update is requested
+2020-01-16 14:38:10,045 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-MEMS1 have been done, and update is requested
+2020-01-16 14:38:10,049 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-NFC4 have been done, and update is requested
+2020-01-16 14:38:10,052 [INFO] Engine:378 - compute dependency for SwPack X-CUBE-SUBG2 have been done, and update is requested
+2020-01-16 14:38:10,054 [INFO] Engine:382 - compute dependency for SwPack X-CUBE-TOUCHGFX have been done, no update is requested
+2020-01-16 14:38:10,064 [INFO] Engine:378 - compute dependency for SwPack CMSIS have been done, and update is requested
+2020-01-16 14:38:10,066 [INFO] ThirdPartyDb:261 - Close Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml)
+2020-01-16 14:38:10,087 [INFO] ThirdPartyDb:295 - Open Third Party DataBase File (/Users/prpaxson/.stm32cubemx/plugins/thirdparty/db/thirdparties_db.xml) : 2 ms. number of Sw pack : 9
+2020-01-16 14:38:10,094 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,095 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,095 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,096 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,096 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,096 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:38:10,102 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,102 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-01-16 14:38:10,102 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,102 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:38:10,121 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,121 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-01-16 14:38:10,121 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-01-16 14:38:10,121 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,121 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:38:10,128 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,128 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-01-16 14:38:10,128 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-01-16 14:38:10,128 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-01-16 14:38:10,128 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,128 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:38:10,133 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,133 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-01-16 14:38:10,133 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-01-16 14:38:10,133 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-01-16 14:38:10,133 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-01-16 14:38:10,133 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,133 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.13.0
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,138 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :ARM CMSIS 5.6.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.13.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:38:10,146 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:38:10,233 [INFO] DbMcusJson:87 - JSON generation date=Wed Dec 11 03:27:49 PST 2019 (1576063669)
+2020-01-16 14:38:10,567 [INFO] DbMcus:192 - Found 1628 MCUs (1588 are supported by CubeMX, 1588 are visible in CubeMX)
+2020-01-16 14:38:10,568 [INFO] ApiDb:158 - Load user favorites file /Users/prpaxson/.stm32cubemx/favorites.mcus.txt: 0 item(s)
+2020-01-16 14:38:10,568 [INFO] ApiDb:163 - User favorites MCUs=[]
+2020-01-16 14:38:10,568 [INFO] DbMcus:203 - Set 0 / 0 favorites MCUs
+2020-01-16 14:38:10,595 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Dec 11 03:27:49 PST 2019 (1576063669)
+2020-01-16 14:38:10,602 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-01-16 14:38:10,606 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-01-16 14:38:10,609 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-01-16 14:38:10,620 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-01-16 14:38:10,627 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-01-16 14:38:10,629 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-01-16 14:38:10,639 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-01-16 14:38:10,645 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-01-16 14:38:10,647 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-01-16 14:38:10,647 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-01-16 14:38:10,648 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-01-16 14:38:10,648 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-01-16 14:38:10,650 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-01-16 14:38:10,650 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-01-16 14:38:10,650 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-01-16 14:38:10,650 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-01-16 14:38:10,667 [INFO] DbBoardsJson:79 - JSON generation date=Fri Dec 13 01:50:48 PST 2019 (1576230648)
+2020-01-16 14:38:10,671 [INFO] DbBoards:120 - Found 143 boards (140 are supported by CubeMX)
+2020-01-16 14:38:10,674 [INFO] DbBoardsDocs:118 - JSON generation date=Wed Dec 11 03:27:49 PST 2019 (1576063669)
+2020-01-16 14:38:10,679 [INFO] DbBoardsDocs:57 - Found 160 boards documents
+2020-01-16 14:38:10,679 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-01-16 14:38:10,680 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-01-16 14:38:10,680 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-01-16 14:38:10,680 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-01-16 14:38:10,680 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-01-16 14:38:10,680 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-01-16 14:38:10,680 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-01-16 14:38:10,680 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-01-16 14:38:10,681 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-01-16 14:38:10,681 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-01-16 14:38:10,681 [WARN] DbBoards:130 - board STM32H7B3I-DK has no document id list !
+2020-01-16 14:38:10,681 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-01-16 14:38:10,681 [WARN] DbBoards:130 - board STM32L562E-DK has no document id list !
+2020-01-16 14:38:10,681 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board P-NUCLEO-WB55 has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32H7B3I-EVAL has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-01-16 14:38:10,682 [WARN] DbBoards:130 - board STM32L552E-EV has no document id list !
+2020-01-16 14:38:10,683 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-01-16 14:38:10,683 [WARN] DbBoards:130 - board NUCLEO-H7A3ZI-Q has no document id list !
+2020-01-16 14:38:10,683 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-01-16 14:38:12,102 [INFO] ApiDb:147 - User favorites file not found: /Users/prpaxson/.stm32cubemx/favorites.boards.txt
+2020-01-16 14:38:12,102 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-01-16 14:38:12,106 [INFO] DbBoardsDocs:57 - Found 320 boards documents
+2020-01-16 14:38:12,107 [INFO] ApiDb:186 - Save user favorites file /Users/prpaxson/.stm32cubemx/favorites.boards.txt: 0 item(s)
+2020-01-16 14:38:12,107 [INFO] ApiDb:191 - User favorites Boards=[]
+2020-01-16 14:38:12,108 [INFO] DbBoardsPdsc:92 - Found 4 items
+2020-01-16 14:38:12,109 [INFO] DbBoardsPdsc:92 - Found 9 items
+2020-01-16 14:38:12,109 [INFO] DbBoardsPdsc:92 - Found 2 items
+2020-01-16 14:38:12,111 [INFO] DbBoardsPdsc:92 - Found 40 items
+2020-01-16 14:38:12,113 [INFO] DbBoardsPdsc:92 - Found 27 items
+2020-01-16 14:38:12,113 [INFO] DbBoardsPdsc:92 - Found 1 items
+2020-01-16 14:38:12,116 [INFO] DbBoardsPdsc:92 - Found 39 items
+2020-01-16 14:38:12,117 [INFO] DbBoardsPdsc:92 - Found 21 items
+2020-01-16 14:38:12,117 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V1: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-01-16 14:38:12,117 [WARN] DbBoardsPdsc:256 - Board STEVAL-IDP005V2: unknown feature type=PWRSock, name=Power Socket, username=IO-Link 4-position M12 A-coded connector, n=1
+2020-01-16 14:38:12,118 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=Audio, name=, username=Audio stereo codec with Headphone Amp (CS42L51-CNZ), n=1
+2020-01-16 14:38:12,118 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-DK: unknown feature type=WIFI, name=, username=WIFI 802.11 b/g/n, n=1
+2020-01-16 14:38:12,119 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Audio, name=, username=Multi-Channel Audio Codec (CS42L51-CNZ), n=1
+2020-01-16 14:38:12,119 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Meter, name=, username=Power-metering and Temperature-monitoring with sigma-delta modulators, n=1
+2020-01-16 14:38:12,119 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=WIFI, name=, username=WIFI 802.11 a/b/g/n, n=1
+2020-01-16 14:38:12,119 [WARN] DbBoardsPdsc:256 - Board STM32H7B3I-EVAL: unknown feature type=Motor, name=, username=Motor Control, n=1
+2020-01-16 14:38:12,127 [INFO] DbBoardsJson:79 - JSON generation date=Fri Dec 13 01:50:48 PST 2019 (1576230648)
+2020-01-16 14:38:12,130 [INFO] DbBoards:120 - Found 143 boards (140 are supported by CubeMX)
+2020-01-16 14:38:12,130 [WARN] DbBoards:130 - board STEVAL-MKSBOX1V1 has no document id list !
+2020-01-16 14:38:12,130 [WARN] DbBoards:130 - board STEVAL-STWINKT1 has no document id list !
+2020-01-16 14:38:12,130 [WARN] DbBoards:130 - board STEVAL-IDP005V1 has no document id list !
+2020-01-16 14:38:12,130 [WARN] DbBoards:130 - board STEVAL-IDP005V2 has no document id list !
+2020-01-16 14:38:12,130 [WARN] DbBoards:130 - board STEVAL-BFA001V1B has no document id list !
+2020-01-16 14:38:12,130 [WARN] DbBoards:130 - board STEVAL-BFA001V2B has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32F401C-DISCO has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32F769I-DISC1 has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32L-DISCOVERY has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32H747I-DISC1 has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32H7B3I-DK has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32MP157A-DK1 has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32L562E-DK has no document id list !
+2020-01-16 14:38:12,131 [WARN] DbBoards:130 - board STM32L4P5G-DK has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board P-NUCLEO-WB55-Nucleo has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board P-NUCLEO-WB55-USBDongle has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board P-NUCLEO-WB55 has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board STM32100E-EVAL has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board STM32303C-EVAL has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board STM32L152D-EVAL has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board STM32H743I-EVAL2 has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board STM32H7B3I-EVAL has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board STM32H753I-EVAL2 has no document id list !
+2020-01-16 14:38:12,132 [WARN] DbBoards:130 - board STM32G474E-EVAL1 has no document id list !
+2020-01-16 14:38:12,133 [WARN] DbBoards:130 - board STM32L552E-EV has no document id list !
+2020-01-16 14:38:12,133 [WARN] DbBoards:130 - board NUCLEO-H743ZI2 has no document id list !
+2020-01-16 14:38:12,133 [WARN] DbBoards:130 - board NUCLEO-H7A3ZI-Q has no document id list !
+2020-01-16 14:38:12,133 [WARN] DbBoards:130 - board NUCLEO-L4P5ZG has no document id list !
+2020-01-16 14:38:12,674 [INFO] ApiDb:158 - Load user favorites file /Users/prpaxson/.stm32cubemx/favorites.boards.txt: 0 item(s)
+2020-01-16 14:38:12,674 [INFO] ApiDb:163 - User favorites Boards=[]
+2020-01-16 14:38:12,674 [INFO] DbBoards:209 - Set 0 / 0 favorites Boards
+2020-01-16 14:38:13,210 [INFO] McuFinderGlobals:40 - Set McuFinder mode to 2 (CubeIDE integrated)
+2020-01-16 14:38:13,223 [INFO] FinderPluginLoader:86 - Searching for filters in installed packs
+2020-01-16 14:38:13,635 [INFO] DbMcusAds:130 - JSON generation date=Wed Feb 20 08:46:15 PST 2019 (1550681175)
+2020-01-16 14:38:16,701 [INFO] ServerAccessManage:348 - Download File 
+2020-01-16 14:38:16,832 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-01-16 14:38:16,846 [INFO] McuDetailPanel:181 - Set advertising image to /Users/prpaxson/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-01-16 14:38:17,204 [INFO] McuFilterPanel:282 - Update 0 favorites MCUs
+2020-01-16 14:38:17,377 [INFO] LoadUrlFilesThread:161 - End of LoadServerUrlFiles without Thread
+2020-01-16 14:38:17,378 [INFO] BoardDetailPanel:179 - Set advertising image to /Users/prpaxson/STM32Cube/Repository//PRSTM32MP10219-01-med.jpg
+2020-01-16 14:38:17,395 [INFO] BoardFilterPanel:211 - Update 0 favorites Boards
+2020-01-16 14:38:17,465 [INFO] CrossSelectorPresenter:1319 - Cross Selector saved comparison directory: /Users/prpaxson/.stmcufinder/plugins/mcufinder/mcu/cs_comparisons_mx
+2020-01-16 14:40:25,076 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.2
+2020-01-16 14:40:25,077 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.1
+2020-01-16 14:40:25,078 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] withoutVersionV1.24.0
+2020-01-16 14:40:29,175 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] File copied successfully!!
+2020-01-16 14:40:33,647 [INFO] MainUpdater:2230 - connection check result : 10
+2020-01-16 14:40:34,085 [INFO] MicroXplorer:390 - Change Database Path : 
+2020-01-16 14:40:34,085 [INFO] MicroXplorer:420 - Change Database Version : DB.5.0.50
+2020-01-16 14:40:34,088 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-01-16 14:40:34,090 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 434918776 Bytes (692060160)
+2020-01-16 14:40:34,091 [INFO] OpenFileManager:274 - Change cursor
+2020-01-16 14:40:35,769 [INFO] Rule:210 - rule SPDIFRX instance for mcu is applicable
+2020-01-16 14:40:35,769 [INFO] Rule:210 - rule Rename Tracer Mode is applicable
+2020-01-16 14:40:35,769 [INFO] Rule:210 - rule SPDIFRX instance value for IP SPDIFRX is applicable
+2020-01-16 14:40:35,769 [INFO] Rule:210 - rule SPDIFRX instance for signal is applicable
+2020-01-16 14:40:35,769 [INFO] Rule:210 - rule SPDIFRX instance for project manager is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule SPDIFRX instance for project manager is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule ADC Scan  fix with FW F7 is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule ADC Scan  fix with FW F7 is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule Add RTC Activate Clock Source is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule Add RTC Activate Calendar 1 is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule Add RTC Activate Calendar 2 is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule Add RTC Activate Calendar 3 is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule UART/USART TX Mode is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule UART/USART RX Mode is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule UART/USART RX TX Mode is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule UART/USART PARITY NONE is applicable
+2020-01-16 14:40:35,770 [INFO] Rule:210 - rule UART/USART PARITY EVEN is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule UART/USART PARITY ODD is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule USART StopBits 1 is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule USART StopBits 2 is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule USART StopBits 1.5 is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule USART StopBits 0.5 is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule UART/USART WORD LENGTH 7 is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule UART/USART WORD LENGTH 8 is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule UART/USART WORD LENGTH 9 is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Rename FMC NAND NCE signal is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Rename FMC NAND INT signal is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv L4 family is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigInjecConv L4 family is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv F3 family is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigInjecConv F3 family is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv Goldfish serie is applicable
+2020-01-16 14:40:35,771 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigInjecConv Goldfish serie is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv L0 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv F0 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConvn L1 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigInjecConv L1 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv F1 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigInjecConv F1 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv F7 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigInjecConv F7 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigConv F4 and F2 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule Change Default Value for ADC ExternalTrigInjecConv F4 and F2 family is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0  is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0  is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0 is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0 is applicable
+2020-01-16 14:40:35,772 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0  is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule ADC SamplingTime fix with FW L0 is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule Rename USB_OE Signal is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule Rename Activate_OE Mode is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PC14/OSC32_IN -> PC14-OSC32_IN (PC14) is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PC15/OSC32_OUT -> PC15-OSC32_OUT (PC15) is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PH0/OSC_IN -> PH0-OSC_IN (PH0) is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PH1/OSC_OUT -> PH1-OSC_OUT (PH1) is applicable
+2020-01-16 14:40:35,773 [INFO] Rule:210 - rule Rename DIE462 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE415 pin PA13 -> PA13 (JTMS/SWDIO) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE462 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE415 pin PA14 -> PA14 (JTCK/SWCLK) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PA15 -> PA15 (JTDI) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE462 pin PB3 -> PB3 (JTD0/TRACESWO) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE415 pin PB3 -> PB3 (JTD0-TRACESWO) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE462/DIE415 pin PB4 -> PB4 (NJTRST) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DIE462 pin PH3/BOOT0 -> PH3-BOOT0 (BOOT0) is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename CRYP DataEncryptionTypesList to Algorithm is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename AES DataEncryptionTypesList to Algorithm is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename TDESECB to CRYP_TDES_ECB is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename TDESCBC to CRYP_TDES_CBC is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DESECB to CRYP_DES_ECB is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename DESCBC to CRYP_DES_CBC is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename AESECB to CRYP_AES_ECB is applicable
+2020-01-16 14:40:35,774 [INFO] Rule:210 - rule Rename AESCBC to CRYP_AES_CBC is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename AESCTR to CRYP_AES_CTR is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename AESGCM to CRYP_AES_GCM is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename AESCCM to CRYP_AES_CCM is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN TimeSeg1 to BS1 is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN TimeSeg2 to BS2 is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN SyncJumpWidth to SJW is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule TimeTriggeredMode to TTCM is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN AutoBusOff to ABOM is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN AutoWakeUp to AWUM is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN AutoRetransmission to NART is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN ReceiveFifoLocked to RFLM is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename CAN TransmitFifoPriority to TXFP is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGH in HRTIMER HRTIM_OUTPUTFAULTLEVEL_HIGHZ is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule Rename TIMER TIM_CLEARINPUTSOURCE_OCREFCLR in  TIMER TIM_CLEARINPUTSOURCE_NONE for F7 family is applicable
+2020-01-16 14:40:35,775 [INFO] Rule:210 - rule FDCAN_R1 - Rename FDCAN mode Master into Classic is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN_R2 - Rename FDCAN mode Slave into Classic is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R3 - if PA10.Mode=FullDuplex, add Pin PA12 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R3 - if PA9.Mode=FullDuplex, add Pin PA11 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_1 - if PE1.Mode=FullDuplex, add Pin PB9 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_1 - if PE0.Mode=FullDuplex, add Pin PB8 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_2 - if PD5.Mode=FullDuplex, add Pin PD1 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R3 - Alternatepin_2 - if PD4.Mode=FullDuplex, add Pin PD0 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA10 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PA9 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE1 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PE0 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD5 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN1_R4 - Alternatepin_2 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD4 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN2_R3 - if PD10.Mode=FullDuplex, add Pin PB13 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN2_R3 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2020-01-16 14:40:35,776 [INFO] Rule:210 - rule FDCAN2_R3 - Alternatepin_1 - if PB7.Mode=FullDuplex, add Pin PB6 is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule FDCAN2_R3 - Alternatepin_1 - if PD9.Mode=FullDuplex, add Pin PB12 is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD10 is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule FDCAN2_R4 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD9 is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PB7 is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule FDCAN2_R4 - Alternatepin_1 - Rename Mode FullDuplex into Enable FDCAN_TXFD for pin PD6 is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule USART TxPinLevelInvertParam Mode is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule USART RxPinLevelInvertParam Mode is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule USART DataInvertParam Mode is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule USART SwapParam Mode is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule USART OverrunDisableParam Mode is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule USART DMADisableonRxErrorParam Mode is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule USART MSBFirstParam Mode is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule Update MwName for USB_DEVICE is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule Change PWR_Regulator_Voltage_Scale Default Value for RCC  H7 family is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule UART/USART IPParameter rename Prescaler parameter to ClockPrescaler is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule UART/USART Prescaler rename Prescaler parameter to ClockPrescaler is applicable
+2020-01-16 14:40:35,777 [INFO] Rule:210 - rule TIM1CLockSelection is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule TIM15CLockSelection is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC SDMMC3CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC SDMMC12CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC QSPICLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC SPI6CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC LPTIM23CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC LPTIM1CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC USART1CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC USART24CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC USART6CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC UART78CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC USART35CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,778 [INFO] Rule:210 - rule align RCC I2C46CLockSelection BCLK value on MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule align RCC SPI45CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule align RCC I2C12CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule align RCC I2C35CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule align RCC LPTIM45CLockSelection default value on MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Rename DCMI PIXCK signal is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change Default Value for I2C46CLockSelection MP1 family is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change Default Value for UART for G4, G0 and WB families is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change Default Value for USART for G4, G0 and WB families is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change Default Value for USART for G4 family is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change USART1CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change USART2CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change USART3CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change UART4CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change UART5CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change LPUART1CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,779 [INFO] Rule:210 - rule Change LPTIM1CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change LPTIM2CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change RCC_MCO1Source refparam name for MP1 is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change LSCOSource1 refparam name for MP1 is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change SMPSCLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change LPTIM3CLockSelection refparam name for MP1 is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change MPCBB* Default Template Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change MPCWM* or MPCBB* Secure Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change MPCWM* or MPCBB* No Secure Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change TZSC IP Secure Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change TZSC IP No Secure Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change TZSC IP Privilege Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change TZSC IP No Privilege Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change TZIC IT Secure Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Change TZIC IT No Secure Mode to Parameters is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Add MPCBB1_NonSecureArea_Start_Address value with referenced to MPCBB1_NonSecureArea_Start value is applicable
+2020-01-16 14:40:35,780 [INFO] Rule:210 - rule Add MPCBB2_NonSecureArea_Start_Address value with referenced to MPCBB2_NonSecureArea_Start value is applicable
+2020-01-16 14:40:35,781 [INFO] Rule:210 - rule Add MPCWM1_NonSecureArea*_Start_Address value with referenced to MPCWM1_NonSecureArea*_Start value is applicable
+2020-01-16 14:40:35,781 [INFO] Rule:210 - rule Add MPCWM2_NonSecureArea*_Start_Address value with referenced to MPCWM2_NonSecureArea*_Start value is applicable
+2020-01-16 14:40:35,781 [INFO] Rule:210 - rule Add MPCWM3_NonSecureArea_Start_Address value with referenced to MPCWM3_NonSecureArea_Start value is applicable
+2020-01-16 14:40:35,801 [INFO] DbConfProperties:222 - Apply Compatibility (47/170 Rules)
+2020-01-16 14:40:35,819 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2020-01-16 14:40:35,856 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (4000000)
+2020-01-16 14:40:35,974 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 584915312 Bytes (692060160)
+2020-01-16 14:40:36,006 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 4.4.0
+2020-01-16 14:40:36,006 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 7.0.0
+2020-01-16 14:40:36,007 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 1.0.0
+2020-01-16 14:40:36,007 [INFO] ThirdParty:899 - CMSIS Pack Vendor :ARM CMSIS 5.6.0
+2020-01-16 14:40:36,007 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 4.0.0
+2020-01-16 14:40:36,007 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 1.5.1
+2020-01-16 14:40:36,007 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.13.0
+2020-01-16 14:40:36,007 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 5.0.0
+2020-01-16 14:40:36,007 [INFO] ThirdParty:899 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 1.0.0
+2020-01-16 14:40:36,210 [INFO] PinOutPanel:1399 - setPackage(No Configuration,No Configuration)
+2020-01-16 14:40:36,211 [INFO] PinOutPanel:1399 - setPackage(STM32F407VGTx,LQFP100)
+2020-01-16 14:40:36,513 [INFO] UtilMem:74 - Before build in PCC Used Memory: 337751248 Bytes (692060160)
+2020-01-16 14:40:36,736 [INFO] SharedServices:71 - Folder for power plug-in: /Users/prpaxson/.stm32cubemx/plugins/power
+2020-01-16 14:40:36,737 [INFO] UtilMem:74 - After build in PCC Used Memory: 352431312 Bytes (692060160)
+2020-01-16 14:40:36,755 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,755 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,755 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,755 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,756 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,757 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,758 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,758 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,758 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,758 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,758 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,758 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,758 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,759 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,760 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,761 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,761 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,761 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,761 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,761 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,761 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,761 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,762 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,762 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,762 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,762 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,762 [INFO] IPUIPlugin:65 - create IPUIPlugin
+2020-01-16 14:40:36,773 [WARN] IP:1931 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2020-01-16 14:40:36,774 [WARN] IP:1931 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2020-01-16 14:40:36,783 [INFO] I2sManager:616 - 9.6E7
+2020-01-16 14:40:36,784 [INFO] I2sManager:173 - I2S Clock Value : 9.6E7
+2020-01-16 14:40:36,784 [INFO] I2sManager:510 - AudioClock : 93750Divider : 2Odd : 0
+2020-01-16 14:40:36,803 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2020-01-16 14:40:36,865 [INFO] OpenFileManager:294 - Restore cursor
+2020-01-16 14:40:36,902 [WARN] IP:1931 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2020-01-16 14:40:36,902 [WARN] IP:1931 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2020-01-16 14:40:36,903 [WARN] IP:1931 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2020-01-16 14:40:36,903 [WARN] IP:1931 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2020-01-16 14:40:36,970 [INFO] ApiDbMcu:445 - Load IP Config File for USB_HOST
+2020-01-16 14:40:37,141 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 411673816 Bytes (692060160)
+2020-01-16 14:40:40,427 [INFO] ServerAccessManage:348 - Download File stm32cube_fw_f4_v1240.zip
+2020-01-16 14:43:18,464 [INFO] FileExtend:225 - Unzip File : stm32cube_fw_f4_v1240.zip
+2020-01-16 14:43:18,549 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-01-16 14:43:52,495 [INFO] ServerAccessManage:348 - Download File stm32cube_fw_f4_v1242.zip
+2020-01-16 14:44:14,247 [INFO] FileExtend:225 - Unzip File : stm32cube_fw_f4_v1242.zip
+2020-01-16 14:44:14,250 [INFO] FileExtend:240 - Standard Zip Deflate
+2020-01-16 14:44:18,213 [INFO] LoadServerPackagesThread:160 - End of LoadServerPackages Thread
+2020-01-16 14:44:18,272 [INFO] CheckServerUpdateThread:92 - End of CheckServer Thread
+2020-01-16 14:44:18,288 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 525969032 Bytes (1073741824)
+2020-01-16 14:44:18,872 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: SPI
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: I2S
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: SYS
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: RCC
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: I2C
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: USB_OTG_FS
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: NVIC
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: USB_HOST
+2020-01-16 14:44:18,873 [INFO] BlockDiagram:2751 - set Specific Code input for plugin: GPIO
+2020-01-16 14:44:18,875 [INFO] CodeGenerator:601 - code generatio: config db path: /Applications/STM32CubeIDE.app/Contents/Eclipse/plugins/com.st.stm32cube.common.mx_5.5.0.201912201511//db/
+2020-01-16 14:44:18,954 [WARN] IP:1931 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2020-01-16 14:44:18,954 [WARN] IP:1931 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2020-01-16 14:44:19,485 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/license.tmp_save
+2020-01-16 14:44:19,902 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/license.tmp
+2020-01-16 14:44:20,022 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/gpio.tmp_save
+2020-01-16 14:44:20,154 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/gpio.tmp
+2020-01-16 14:44:20,157 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-01-16 14:44:20,250 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_vars.tmp_save
+2020-01-16 14:44:20,347 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_vars.tmp
+2020-01-16 14:44:20,355 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_inc.tmp_save
+2020-01-16 14:44:20,463 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_inc.tmp
+2020-01-16 14:44:20,484 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_HalInit.tmp_save
+2020-01-16 14:44:20,632 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_HalInit.tmp
+2020-01-16 14:44:20,645 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_Msp.tmp_save
+2020-01-16 14:44:20,780 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/usb_otg_fs_Msp.tmp
+2020-01-16 14:44:21,220 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-01-16 14:44:21,222 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2C
+2020-01-16 14:44:21,223 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-01-16 14:44:21,226 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-01-16 14:44:21,227 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for I2S
+2020-01-16 14:44:21,228 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-01-16 14:44:21,229 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-01-16 14:44:21,230 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for SPI
+2020-01-16 14:44:21,230 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-01-16 14:44:21,232 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2020-01-16 14:44:21,277 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/App/usb_host.c_save
+2020-01-16 14:44:21,433 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/App/usb_host.c
+2020-01-16 14:44:21,445 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/App/usb_host.h_save
+2020-01-16 14:44:21,547 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/App/usb_host.h
+2020-01-16 14:44:21,581 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_conf.h_save
+2020-01-16 14:44:21,723 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_conf.h
+2020-01-16 14:44:21,735 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_conf.c_save
+2020-01-16 14:44:21,881 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_conf.c
+2020-01-16 14:44:21,894 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_platform.c_save
+2020-01-16 14:44:21,991 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_platform.c
+2020-01-16 14:44:22,041 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_platform.h_save
+2020-01-16 14:44:22,138 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/USB_HOST/Target/usbh_platform.h
+2020-01-16 14:44:22,138 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Debug : prepare data for NVIC
+2020-01-16 14:44:22,139 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line test
+2020-01-16 14:44:22,152 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Src/stm32f4xx_it.c_save
+2020-01-16 14:44:22,297 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Src/stm32f4xx_it.c
+2020-01-16 14:44:22,307 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Inc/stm32f4xx_it.h_save
+2020-01-16 14:44:22,409 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Inc/stm32f4xx_it.h
+2020-01-16 14:44:22,423 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Src/stm32f4xx_hal_msp.c_save
+2020-01-16 14:44:22,584 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Src/stm32f4xx_hal_msp.c
+2020-01-16 14:44:22,595 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/system.tmp_save
+2020-01-16 14:44:22,687 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/MXTmpFiles/system.tmp
+2020-01-16 14:44:22,699 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Inc/stm32f4xx_hal_conf.h_save
+2020-01-16 14:44:22,808 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Inc/stm32f4xx_hal_conf.h
+2020-01-16 14:44:22,832 [WARN] IPConfigManager:2706 - IP not found : gpio
+2020-01-16 14:44:22,833 [WARN] CodeGenerator:2776 - IP not found : gpio
+2020-01-16 14:44:22,845 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Inc/main.h_save
+2020-01-16 14:44:22,937 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Inc/main.h
+2020-01-16 14:44:22,950 [INFO] CodeEngine:193 - oldGeneratedFile, /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Src/main.c_save
+2020-01-16 14:44:23,127 [INFO] CodeEngine:211 - Generated code: /Users/prpaxson/STM32CubeIDE/workspace_1.2.0/mus176/Core/Src/main.c
+2020-01-16 14:44:24,458 [INFO] ProjectBuilder:1843 - Time for Copy HAL[1] : 543mS.
+2020-01-16 14:44:24,465 [INFO] ProjectBuilder:2428 - Project Generator version: 3.6.0
+2020-01-16 14:44:24,716 [INFO] ConfigFileManager:1043 - The Die is : DIE413
+2020-01-16 14:44:32,189 [INFO] ProjectBuilder:2595 - Time for Generating toolchain IDE Files: 7724mS.
+2020-01-16 14:44:32,190 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 0mS.
+2020-01-16 14:44:32,194 [INFO] ProjectBuilder:1703 - Time for Copy CMSIS : 1mS.
+2020-01-16 14:46:48,118 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] swt-tree-arrow-mode and swt-tree-arrow-color are not supported on this platform
+2020-01-16 22:13:30,700 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-16 22:13:30,714 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-23 14:12:31,017 [INFO] Activator:176 - 
+
+
+2020-01-23 14:12:31,020 [INFO] Activator:177 - !SESSION log4j initialized
+2020-01-23 14:12:35,396 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-01-23 14:27:54,605 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] swt-tree-arrow-mode and swt-tree-arrow-color are not supported on this platform
+2020-01-23 14:28:21,807 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-23 14:28:21,808 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-23 14:28:36,925 [INFO] Activator:176 - 
+
+
+2020-01-23 14:28:36,928 [INFO] Activator:177 - !SESSION log4j initialized
+2020-01-23 14:28:40,933 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 
+2020-01-23 14:34:18,285 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://marketplace.eclipse.org:80: The target server failed to respond
+2020-01-23 14:34:18,289 [INFO] RetryExec:113 - Retrying request to {}->http://marketplace.eclipse.org:80
+2020-01-23 14:35:35,729 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-23 14:35:35,730 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-23 14:36:02,033 [INFO] Activator:176 - 
+
+
+2020-01-23 14:36:02,035 [INFO] Activator:177 - !SESSION log4j initialized
+2020-01-23 14:36:28,266 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] swt-tree-arrow-mode and swt-tree-arrow-color are not supported on this platform
+2020-01-23 17:12:08,695 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-23 17:12:08,697 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] ***WARNING: Display must be created on main thread due to Cocoa restrictions. Use vmarg -XstartOnFirstThread
+2020-01-30 14:06:55,719 [INFO] Activator:176 - 
+
+
+2020-01-30 14:06:55,722 [INFO] Activator:177 - !SESSION log4j initialized

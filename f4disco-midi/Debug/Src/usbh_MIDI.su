@@ -1,0 +1,13 @@
+usbh_MIDI.c:75:27:USBH_MIDI_InterfaceInit	48	static
+usbh_MIDI.c:161:20:USBH_MIDI_InterfaceDeInit	24	static
+usbh_MIDI.c:197:27:USBH_MIDI_ClassRequest	16	static
+usbh_MIDI.c:213:21:USBH_MIDI_Stop	24	static
+usbh_MIDI.c:236:27:USBH_MIDI_Process	24	static
+usbh_MIDI.c:280:27:USBH_MIDI_SOFProcess	16	static
+usbh_MIDI.c:292:10:USBH_MIDI_GetLastReceivedDataSize	24	static
+usbh_MIDI.c:313:21:USBH_MIDI_Transmit	32	static
+usbh_MIDI.c:339:21:USBH_MIDI_Receive	32	static
+usbh_MIDI.c:365:13:MIDI_ProcessTransmission	32	static
+usbh_MIDI.c:446:13:MIDI_ProcessReception	24	static
+usbh_MIDI.c:510:13:USBH_MIDI_TransmitCallback	16	static
+usbh_MIDI.c:521:13:USBH_MIDI_ReceiveCallback	16	static
